@@ -1,4 +1,4 @@
-package com.penumbra.model;
+package com.penumbra.asset.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
