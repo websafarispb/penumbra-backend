@@ -1,4 +1,4 @@
-package com.penumbra.controller;
+package com.penumbra.asset.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
